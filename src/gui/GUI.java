@@ -1,3 +1,4 @@
+//Making GUI of the Text Editor.
 package gui;
 import dictionary.Dictionary;
 
