@@ -113,7 +113,7 @@ public class Window
 
 		
 		/*
-		 * Creating File Menu and adding menuItems
+		 * Creating File Menu and adding menuItems in the Application.
 		 */
 		JMenu menu1 = new JMenu("File");
 		newFile = new JMenuItem(getNewAction());
