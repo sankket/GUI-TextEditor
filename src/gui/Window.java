@@ -1,3 +1,4 @@
+// Making Chat Window using Java Swing.
 package gui;
 
 import java.awt.BorderLayout;
