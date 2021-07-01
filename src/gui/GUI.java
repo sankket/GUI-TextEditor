@@ -13,7 +13,7 @@ public class GUI
 			@Override
 			public void run() {
 				@SuppressWarnings("unused")
-				Window W = new Window ( );
+				Window W_Frame = new Window ( );
 			}
 		});
 	}
